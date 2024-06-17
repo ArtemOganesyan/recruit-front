@@ -20,7 +20,7 @@ const propTypes = {
 };
 
 const defaultProps = {
-  headerTitle: 'Careers-OAV',
+  headerTitle: 'Careers',
   quickSearchPlaceholder: 'Position Title',
   searchEnabled: true
 };

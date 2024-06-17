@@ -6,7 +6,7 @@ class RestClient {
   constructor() {
     this.protocol = location.protocol; 
     this.hostName = location.hostname;
-    this.port = 3000;
+    this.port = 30007;
     this.baseUrl = `${this.protocol}//${this.hostName}:${this.port}/recruit/api/v1`;
     this.bearer = 'Bearer ';
 
